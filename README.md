@@ -3,7 +3,7 @@
 **Privacy-Preserving Federated Learning with Blockchain and Homomorphic Encryption**
 
 A lightweight proof-of-concept demonstrating encrypted federated learning and blockchain-based trust logging.  
-Inspired by IEEE research on privacy-preserving AI for IoV systems (Ting et al., 2025).
+Inspired by IEEE research on privacy-preserving AI for 
 
 ---
 
