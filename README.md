@@ -22,3 +22,11 @@ PureFL-Mini/
 ├── data/ → Datasets & metadata
 ├── experiments/ → Source code for FL, HE, Blockchain
 ├── results/ → Logs, model metrics, visualizations
+
+
+---
+
+## 🧠 Credits
+This work is independently developed and inspired by publicly available IEEE research in privacy-preserving federated learning.  
+All implementation, architecture, and source code are original contributions by **Ravikiran (IEEE Member #98782037)**.
+
